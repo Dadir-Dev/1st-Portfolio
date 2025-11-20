@@ -94,7 +94,7 @@ function initScrollAnimations() {
   }, observerOptions);
 
   document
-    .querySelectorAll(".about-image, .about-text, .project-card")
+    .querySelectorAll(".about-image, .about-text, .project-card, .contact")
     .forEach((el) => {
       observer.observe(el);
     });
