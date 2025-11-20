@@ -528,6 +528,25 @@ textarea.form-control {
   resize: vertical;
 }
 
+.form-label {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  color: var(--text-light);
+  transition: var(--transition);
+  pointer-events: none;
+}
+
+.form-control:focus + .form-label,
+.form-control:not(:placeholder-shown) + .form-label {
+  top: -10px;
+  left: 10px;
+  font-size: 0.8rem;
+  background: var(--dark-color);
+  padding: 0 10px;
+  color: var(--primary-color);
+}
+
 /* Animations */
 @keyframes fadeInUp {
   from {
