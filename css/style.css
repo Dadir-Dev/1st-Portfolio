@@ -547,6 +547,20 @@ textarea.form-control {
   color: var(--primary-color);
 }
 
+/* Footer */
+footer {
+  background: var(--darker-color);
+  padding: 70px 0 20px;
+  position: relative;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
 /* Animations */
 @keyframes fadeInUp {
   from {
