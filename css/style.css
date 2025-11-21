@@ -601,6 +601,15 @@ footer {
   transform: translateY(-5px);
   box-shadow: 0 10px 20px rgba(108, 99, 255, 0.4);
 }
+
+.copyright {
+  text-align: center;
+  padding-top: 30px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 0.9rem;
+  color: var(--text-light);
+}
+
 /* Animations */
 @keyframes fadeInUp {
   from {
