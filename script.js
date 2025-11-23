@@ -4,7 +4,7 @@ const projectsData = [
     id: 1,
     title: "Random Quote Generator",
     description:
-      "A responsive, theme-rich Random Quote Generator. Lets users explore inspiring quotes from multiple categories, switch between light/dark/image themes, and copy quotes with one click.",
+      "A responsive quote generator offering inspiring categories, multiple visual themes, and one-click copying, helping users explore motivation through an adaptable web experience.",
     image: "/assets/Random Quote Generator.png",
     tags: ["HTML", "CSS", "JavaScript"],
     liveDemo: "https://stupendous-llama-70eb07.netlify.app/",
@@ -14,11 +14,21 @@ const projectsData = [
     id: 2,
     title: "Color Flipper",
     description:
-      "A simple and interactive web app that lets you change the background color by clicking a button. You can switch between Simple and Hex color modes, and even copy the color code with one click.",
+      "A simple interactive app that changes background colors, lets you switch between Simple and Hex modes, and copy the shown color code.",
     image: "/assets/Color Flipper.png",
     tags: ["HTML", "CSS", "JavaScript"],
     liveDemo: "https://dadir-dev.github.io/color-flipper/",
     githubLink: "https://github.com/Dadir-Dev/color-flipper",
+  },
+  {
+    id: 3,
+    title: "Deep Focus",
+    description:
+      "A streamlined single-page study tracker that helps you monitor focus sessions, review productivity trends, and improve daily habits through an intuitive interface.",
+    image: "/assets/Deep Focus Tracker.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    liveDemo: "https://dadir-dev.github.io/Deep-Focus-Tracker/",
+    githubLink: "https://github.com/Dadir-Dev/Deep-Focus-Tracker",
   },
 ];
 
