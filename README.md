@@ -2,11 +2,12 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a frontend developer. Built with clean code, smooth animations, and a professional design.
 
-![Portfolio Preview](/assets/portfolio-preview.png)
+![Portfolio Preview](/screenshots/Screenshots.png)
+![Portfolio Preview](/screenshots/Screenshot%20projects.png)
 
 ## 🚀 Live Demo
 
-[**View Live Portfolio**](https://your-portfolio-link.com)
+[**View Live Portfolio**](https://dadir-dev.github.io/1st-Portfolio/)
 
 ## ✨ Features
 
@@ -173,6 +174,15 @@ While this is a personal portfolio, suggestions and improvements are welcome!
 - Push to the branch (git push origin feature/AmazingFeature)
 
 - Open a Pull Request
+
+## 📧 Contact
+
+Feel free to reach out to me via email or connect on social media!
+
+- Email: mohamed.dadir1996@gmail.com
+- LinkedIn: [linkedin.com/in/abdikadir-mohammed](https://www.linkedin.com/in/abdikadir-mohammed-54717318b/)
+- GitHub: [github.com/Dadir-Dev](https://github.com/Dadir-Dev)
+- Twitter: [twitter.com/Dadir_Dev](https://x.com/Dadir_Dev)
 
 ## 📄 License
 
